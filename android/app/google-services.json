@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558882073785",
+    "project_id": "iptv-box-4a707",
+    "storage_bucket": "iptv-box-4a707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558882073785:android:268cf95129bf267e6b3f68",
+        "android_client_info": {
+          "package_name": "com.iptvbox.iptv_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558882073785-1jebjeodl9v1h15c3611vv9ihvubprba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDukGzrsMm0rHXJfvI05Jl7A8Od-u17uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558882073785-1jebjeodl9v1h15c3611vv9ihvubprba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
